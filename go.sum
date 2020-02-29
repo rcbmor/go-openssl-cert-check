@@ -1,0 +1,4 @@
+github.com/fullsailor/pkcs7 v0.0.0-20190404230743-d7302db945fa h1:RDBNVkRviHZtvDvId8XSGPu3rmpmSe+wKRcEWNgsfWU=
+github.com/fullsailor/pkcs7 v0.0.0-20190404230743-d7302db945fa/go.mod h1:KnogPXtdwXqoenmZCw6S+25EAm2MkxbG0deNDu4cbSA=
+github.com/zakjan/cert-chain-resolver v0.0.0-20180703112424-6076e1ded272 h1:scDk3LAM8x+NPuywVGC0q0/G+5Ed8M0+YXecz4XnWRM=
+github.com/zakjan/cert-chain-resolver v0.0.0-20180703112424-6076e1ded272/go.mod h1:KNkcm66cr4ilOiEcjydK+tc2ShPUhqmuoXCljXUBPu8=
